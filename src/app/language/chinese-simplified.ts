@@ -109,7 +109,7 @@ export const zhCN = {
     ITEM_NAME_Generous_Gratuity_Potion_II: '慷慨小费药剂 II',
     ITEM_NAME_Generous_Gratuity_Potion_III: '慷慨小费药剂 III',
     ITEM_NAME_Generous_Gratuity_Potion_IV: '慷慨小费药剂 IV',
-    ITEM_NAME_Mastery_Token_Music: '精通令牌 (音乐)',
+    ITEM_NAME_Mastery_Token_Music: '精通代币 (音乐)',
     ITEM_NAME_Music_Lesser_Relic: '音乐次级遗物',
     MASTERY_BONUS_Music_0: '每级仅提供此乐器的+10 GP。',
     MASTERY_BONUS_Music_1: '第一个雇佣修饰符。',
